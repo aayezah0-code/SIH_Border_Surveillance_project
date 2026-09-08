@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://sih-border-surveillance-project.onrender.com/api/:path*"
+    }
+  ]
+}
