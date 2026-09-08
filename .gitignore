@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Frontend dependencies and build
+frontend/node_modules/
+frontend/dist/
+
+# Generated evidence
+backend/data/evidence/*
+
+# Runtime databases
+*.db
+*.db-shm
+*.db-wal
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Uploaded/test videos
+backend/uploads/*.mp4
+*.mp4
+
+# Generated project structure
+structure.txt

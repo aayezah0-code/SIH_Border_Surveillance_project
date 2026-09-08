@@ -1,0 +1,9 @@
+opencv-python
+numpy
+ultralytics
+paddleocr
+paddlepaddle
+insightface
+bytetrack
+python-dotenv
+requests

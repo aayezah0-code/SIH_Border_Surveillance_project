@@ -1,0 +1,10 @@
+{
+  "confidence": 0.4,
+  "iou": 0.45,
+  "low_light_mode": "auto",
+  "frs_match_threshold": 0.65,
+  "anpr_consensus_threshold": 2,
+  "running_enabled": true,
+  "crawling_enabled": true,
+  "throwing_enabled": true
+}
