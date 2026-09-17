@@ -1,4 +1,5 @@
 Sentinel AI
+
 AI-Powered Intelligent Video Analytics Platform for Border Surveillance
 
 Transforming existing CCTV infrastructure into an intelligent, proactive and event-driven surveillance system.
